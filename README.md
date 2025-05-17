@@ -44,6 +44,12 @@
 
 <br>
 
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldk0103"/>
+</div>
+
+<br>
+
 <h3 align="left">📫 Contact 📫</h3>
 <div align="left">
   <a href="https://www.notion.so/1f638a893113803c82bad835e342ad2b?pvs=4">
