@@ -54,11 +54,11 @@
 
   ### 📫 CONTECT
   <a href="https://www.notion.so/1f638a893113803c82bad835e342ad2b?pvs=4">
-    <img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black" />
+    <img src="https://img.shields.io/badge/notion-white?style=flat-square&logo=notion&logoColor=black" />
   </a>
   <a href="mailto:leedomggyu0103@gmail.com">
     <img
-      src="https://img.shields.io/badge/leedomggyu0103@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      src="https://img.shields.io/badge/leedomggyu0103@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <br/>
   
