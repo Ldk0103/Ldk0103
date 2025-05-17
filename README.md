@@ -9,9 +9,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :Front End 개발자가 되고싶은 이동규입니다.<br/>
+  #### :병역특례 개발자로 근무하며 점차 경력을 쌓고싶습니다<br/>
+  #### :팀원과 원활한 소통을 좋아하며 계획적으로 임하는것을 좋아합니다
   <br/>
   <br/>
   
