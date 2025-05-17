@@ -47,7 +47,10 @@
   <br/>
 
   ## Studying
+  <!--Spring-->
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+   <!--Next.js-->
+  <img src="https://img.shields.io/badge/next.js-white?style=flat-square&logo=next.js&logoColor=black"/>
 
   ### 📫 CONTECT
   <a href="https://www.notion.so/1f638a893113803c82bad835e342ad2b?pvs=4">
